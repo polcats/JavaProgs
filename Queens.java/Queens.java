@@ -1,10 +1,5 @@
 import java.util.*;
 
-/*
-	Note: 1 = Queen
-		  0 = blank
-*/
-
 public class Queens {
 	static Scanner k = new Scanner(System.in);
 	static int dim = 0;
